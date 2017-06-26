@@ -1,7 +1,7 @@
 # to-do-list-v2
 This is version 2 of to-do-list
 This to do list has been made using Bootstrap
-Features:
+### Features:
 1.You can press Enter instead of add button
 2.Whenever you check a list item it is highlighted with a shade of red.
 3.Whenever you check a list item it is striked.
