@@ -13,3 +13,7 @@ This to do list has been made using Bootstrap
 5.You can delete an entry using the button in the end of the list.
 
 6.You can use trash button to delete all the entries that are striked through.
+
+# Link:
+
+http://todolistv2.bitballoon.com/
