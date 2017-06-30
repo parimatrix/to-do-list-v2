@@ -13,7 +13,8 @@ window.onload=function () {
     showtodoList(toDoList,displayedList);
     addbutton.addEventListener('click',function () {
         // console.log("button pressed");
-        addAndSave( inputtext.value);
+        if(inputtext.value !== "")
+         addAndSave( inputtext.value);
         inputtext.value="";
     });
     inputtext.addEventListener('keyup',function (event) {
