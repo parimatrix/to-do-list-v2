@@ -1,6 +1,9 @@
 # to-do-list-v2
-This is version 2 of to-do-list
-This to do list has been made using Bootstrap
+
+This is version 2 of to-do-list.
+
+This to do list has been made using Bootstrap.
+
 ### Features:
 1.You can press Enter instead of add button
 
